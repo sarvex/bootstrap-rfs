@@ -74,7 +74,7 @@
     "postcss-less": "^6.0.0",
     "prettier": "^2.6.1",
     "sass": "^1.49.9",
-    "stylelint": "^14.6.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-twbs-bootstrap": "^3.0.1",
     "stylus": "^0.57.0",
     "xo": "^0.48.0"
